@@ -1,0 +1,55 @@
+name: Filter JSON Files
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Her gün gece yarısı (UTC) çalışır
+  workflow_dispatch:  # Manuel tetikleme için
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Filter JSON
+      run: |
+        import json
+        import requests
+
+        def fetch_github_json(url):
+            response = requests.get(url)
+            return response.json()
+
+        def filter_json(source_data, allowed_names):
+            return [item for item in source_data if item['name'] in allowed_names]
+
+        source_url = "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/main/plugins.json"
+        target_file = "f_plugins.json"
+        allowed_names = ["AnimeciX", "BelgeselX", "CizgiMax", "DiziKorea", "Dizilla", "DiziMom", "DiziPal", "FilmMakinesi", "FullHDFilmizlesene", "HDFilmCehennemi", "IzleAI", "JetFilmizle", "KoreanTurk", "KultFilmler", "RareFilmm", "SetFilmIzle", "SezonlukDizi", "WebteIzle", "YouTube"]
+
+        source_data = fetch_github_json(source_url)
+        filtered_data = filter_json(source_data, allowed_names)
+
+        with open(target_file, 'w', encoding='utf-8') as f:
+            json.dump(filtered_data, f, ensure_ascii=False, indent=4)
+
+        print(f"Filtrelenmiş JSON dosyası oluşturuldu: {target_file}")
+      shell: python
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        git add -A
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Automated JSON filter update" && git push)
