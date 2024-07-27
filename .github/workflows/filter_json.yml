@@ -34,7 +34,7 @@ jobs:
         def filter_json(source_data, allowed_names):
             return [item for item in source_data if item['name'] in allowed_names]
 
-        source_url = "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/main/plugins.json"
+        source_url = "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
         target_file = "f_plugins.json"
         allowed_names = ["AnimeciX", "BelgeselX", "CizgiMax", "DiziKorea", "Dizilla", "DiziMom", "DiziPal", "FilmMakinesi", "FullHDFilmizlesene", "HDFilmCehennemi", "IzleAI", "JetFilmizle", "KoreanTurk", "KultFilmler", "RareFilmm", "SetFilmIzle", "SezonlukDizi", "WebteIzle", "YouTube"]
 
