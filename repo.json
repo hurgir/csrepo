@@ -3,6 +3,6 @@
     "description": "Türkçe içerikli eklenti havuzu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/hurgir/csrepo/main/plugins.json"
+      "https://raw.githubusercontent.com/hurgir/csrepo/main/f_plugins.json"
     ]
 }
