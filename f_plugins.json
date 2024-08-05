@@ -331,7 +331,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 15609,
+        "fileSize": 15765,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -342,7 +342,7 @@
             "Movie",
             "Live"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "RecTV",
         "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/RecTV.cs3",
@@ -391,7 +391,7 @@
         "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 24658,
+        "fileSize": 24671,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -403,7 +403,7 @@
             "TvSeries",
             "Anime"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "SineWix",
         "description": "Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/SineWix.cs3",
