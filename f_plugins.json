@@ -331,7 +331,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 15523,
+        "fileSize": 15609,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -391,7 +391,7 @@
         "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 25596,
+        "fileSize": 24658,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -403,7 +403,7 @@
             "TvSeries",
             "Anime"
         ],
-        "version": 7,
+        "version": 10,
         "internalName": "SineWix",
         "description": "Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/SineWix.cs3",
