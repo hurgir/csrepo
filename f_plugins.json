@@ -60,7 +60,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 20256,
+        "fileSize": 20305,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -331,7 +331,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 15765,
+        "fileSize": 15801,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -432,7 +432,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 18790,
+        "fileSize": 19754,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -441,7 +441,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "WebteIzle",
         "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/WebteIzle.cs3",
