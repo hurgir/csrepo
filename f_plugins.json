@@ -60,7 +60,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 20305,
+        "fileSize": 20307,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -69,7 +69,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "DiziBox",
         "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziBox.cs3",
@@ -432,7 +432,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 19439,
+        "fileSize": 19441,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -441,7 +441,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "WebteIzle",
         "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/WebteIzle.cs3",
