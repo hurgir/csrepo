@@ -2,7 +2,7 @@ name: Filter JSON Files
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Her gün gece yarısı (UTC) çalışır
+    - cron: '0 5 * * *'  # Her gün gece yarısı (UTC) çalışır
   workflow_dispatch:  # Manuel tetikleme için
 
 jobs:
