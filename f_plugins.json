@@ -117,7 +117,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 28038,
+        "fileSize": 28036,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -126,7 +126,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziMom.cs3",
