@@ -117,7 +117,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 28037,
+        "fileSize": 28044,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -126,7 +126,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -166,7 +166,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "FilmMakinesi",
         "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/FilmMakinesi.cs3",
@@ -214,7 +214,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 19273,
+        "fileSize": 19263,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -225,7 +225,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "HDFilmCehennemi",
         "description": "Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -235,7 +235,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=720pizle.ai&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 14640,
+        "fileSize": 14643,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -244,7 +244,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "IzleAI",
         "description": "1080P yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleri ile Türkiye'nin en geniş film arşivi 720pizle Full hd film izle.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/IzleAI.cs3",
