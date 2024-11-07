@@ -136,7 +136,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 18602,
+        "fileSize": 18601,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -147,7 +147,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "DiziPal",
         "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -254,7 +254,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 13715,
+        "fileSize": 13718,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -263,7 +263,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "JetFilmizle",
         "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/JetFilmizle.cs3",
