@@ -235,7 +235,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=720pizle.ai&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 14643,
+        "fileSize": 15282,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -244,7 +244,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 2,
+        "version": 4,
         "internalName": "IzleAI",
         "description": "1080P yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleri ile Türkiye'nin en geniş film arşivi 720pizle Full hd film izle.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/IzleAI.cs3",
