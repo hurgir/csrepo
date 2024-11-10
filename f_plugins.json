@@ -292,7 +292,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 17995,
+        "fileSize": 17996,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -302,7 +302,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "KultFilmler",
         "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/KultFilmler.cs3",
@@ -312,7 +312,7 @@
         "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 35721,
+        "fileSize": 35761,
         "status": 1,
         "language": "hi",
         "authors": [
@@ -323,7 +323,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "NetflixMirror",
         "description": "Netflix, PrimeVideo Content in Multiple Languages",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/NetflixMirror.cs3",
