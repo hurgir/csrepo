@@ -166,7 +166,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "FilmMakinesi",
         "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/FilmMakinesi.cs3",
@@ -312,7 +312,7 @@
         "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 35761,
+        "fileSize": 36244,
         "status": 1,
         "language": "hi",
         "authors": [
@@ -323,7 +323,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "NetflixMirror",
         "description": "Netflix, PrimeVideo Content in Multiple Languages",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/NetflixMirror.cs3",
