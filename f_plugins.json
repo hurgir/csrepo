@@ -352,7 +352,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 18779,
+        "fileSize": 18787,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -363,7 +363,7 @@
             "Movie",
             "Live"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "RecTV",
         "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/RecTV.cs3",
@@ -448,6 +448,25 @@
         "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/TurkAnime.cs3",
         "name": "TurkAnime"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=watch2movies.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
+        "fileSize": 14743,
+        "status": 3,
+        "language": "en",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 0,
+        "internalName": "Watch2Movies",
+        "description": "!!! YAPIM AŞAMASINDA !!! Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
+        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/Watch2Movies.cs3",
+        "name": "Watch2Movies"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
