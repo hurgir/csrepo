@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 19919,
+        "fileSize": 20585,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -12,7 +12,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "AnimeciX",
         "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/AnimeciX.cs3",
