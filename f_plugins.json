@@ -372,7 +372,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 18783,
+        "fileSize": 18799,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -381,9 +381,10 @@
         ],
         "tvTypes": [
             "Movie",
-            "Live"
+            "Live",
+            "TvSeries"
         ],
-        "version": 21,
+        "version": 22,
         "internalName": "RecTV",
         "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/RecTV.cs3",
