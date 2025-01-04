@@ -4,7 +4,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
         "fileSize": 20836,
-        "status": 1,
+        "status": 0,
         "language": "tr",
         "authors": [
             "keyiflerolsun"
@@ -14,7 +14,7 @@
         ],
         "version": 2,
         "internalName": "AnimeciX",
-        "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+        "description": "!!! Devredışı !!! AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/AnimeciX.cs3",
         "name": "AnimeciX"
     },
