@@ -3,18 +3,19 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 20514,
-        "status": 0,
+        "fileSize": 20790,
+        "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "keyiflerolsun",
+            "inatchii"
         ],
         "tvTypes": [
             "Anime"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "AnimeciX",
-        "description": "!!! Devredışı !!! AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+        "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/AnimeciX.cs3",
         "name": "AnimeciX"
     },
@@ -396,7 +397,8 @@
         "language": "tr",
         "authors": [
             "keyiflerolsun",
-            "yusiqo"
+            "yusiqo",
+            "inatchii"
         ],
         "tvTypes": [
             "Movie",
