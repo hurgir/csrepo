@@ -42,7 +42,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 16086,
+        "fileSize": 17451,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -51,7 +51,7 @@
         "tvTypes": [
             "Cartoon"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "CizgiMax",
         "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/CizgiMax.cs3",
