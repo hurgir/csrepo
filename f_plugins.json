@@ -137,7 +137,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 18406,
+        "fileSize": 18408,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -148,7 +148,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 21,
+        "version": 22,
         "internalName": "DiziPal",
         "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -495,7 +495,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=watch2movies.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 14752,
+        "fileSize": 18456,
         "status": 3,
         "language": "en",
         "authors": [
