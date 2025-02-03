@@ -197,7 +197,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 14281,
+        "fileSize": 14283,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -206,7 +206,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "FilmModu",
         "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/FilmModu.cs3",
@@ -314,7 +314,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.koreanturk.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 11912,
+        "fileSize": 12041,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -393,7 +393,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 18908,
+        "fileSize": 18903,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -406,7 +406,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 47,
+        "version": 48,
         "internalName": "RecTV",
         "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/RecTV.cs3",
