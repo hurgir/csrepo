@@ -318,7 +318,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 14050,
+        "fileSize": 14048,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -327,7 +327,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "JetFilmizle",
         "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/JetFilmizle.cs3",
@@ -440,7 +440,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 19404,
+        "fileSize": 20859,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -450,7 +450,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 7,
+        "version": 9,
         "internalName": "SetFilmIzle",
         "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/SetFilmIzle.cs3",
@@ -539,7 +539,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 21144,
+        "fileSize": 21143,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -548,7 +548,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "WebteIzle",
         "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/WebteIzle.cs3",
