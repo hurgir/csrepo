@@ -460,16 +460,17 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 17205,
+        "fileSize": 18620,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "keyiflerolsun",
+            "JustRelaxable"
         ],
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "SezonlukDizi",
         "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/SezonlukDizi.cs3",
