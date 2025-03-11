@@ -257,7 +257,7 @@
         "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 24101,
+        "fileSize": 24152,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -267,7 +267,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "GolgeTV",
         "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/GolgeTV.cs3",
@@ -561,7 +561,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 20977,
+        "fileSize": 20927,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -570,7 +570,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 12,
+        "version": 15,
         "internalName": "WebteIzle",
         "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/WebteIzle.cs3",
