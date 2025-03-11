@@ -39,7 +39,7 @@ jobs:
 
         source_url = "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
         target_file = "f_plugins.json"
-        allowed_names = ["AnimeciX", "BelgeselX", "CizgiMax", "DiziBox", "DiziKorea", "Dizilla", "DiziMom", "DiziPal", "DiziYou", "FilmMakinesi", "FilmModu", "FullHDFilm", "FullHDFilmizlesene", "HDFilmCehennemi", "InatBox", "IzleAI", "JetFilmizle", "KoreanTurk", "KultFilmler", "NetflixMirror", "RareFilmm", "RecTV", "SetFilmIzle", "SezonlukDizi", "SineWix", "Watch2Movies", "WebteIzle", "TurkAnime", "YouTube"]
+        allowed_names = ["AnimeciX", "BelgeselX", "CizgiMax", "DiziBox", "DiziKorea", "Dizilla", "DiziMom", "DiziPal", "DiziYou", "FilmMakinesi", "FilmModu", "FullHDFilm", "FullHDFilmizlesene", "GolgeTV", "HDFilmCehennemi", "InatBox", "IzleAI", "JetFilmizle", "KoreanTurk", "KultFilmler", "NetflixMirror", "RareFilmm", "RecTV", "SetFilmIzle", "SezonlukDizi", "SineWix", "Watch2Movies", "WebteIzle", "TurkAnime", "YouTube"]
 
         source_data = fetch_github_json(source_url)
         filtered_data = filter_json(source_data, allowed_names)
