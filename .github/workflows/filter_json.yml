@@ -1,10 +1,8 @@
 name: Filter JSON Files
-
 on:
   schedule:
     - cron: '0 5 * * *'  # Her gün gece yarısı (UTC) çalışır
   workflow_dispatch:  # Manuel tetikleme için
-
 jobs:
   filter:
     runs-on: ubuntu-latest
@@ -14,42 +12,62 @@ jobs:
       with:
         token: ${{ secrets.PAT }}
         fetch-depth: 0
-
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests
-
     - name: Filter JSON
       run: |
         import json
         import requests
-
+        
         def fetch_github_json(url):
             response = requests.get(url)
             return response.json()
-
+        
         def filter_json(source_data, allowed_names):
             return [item for item in source_data if item['name'] in allowed_names]
-
-        source_url = "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
+        
+        source_urls = [
+            "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json",
+            "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/plugins.json"
+        ]
+        
         target_file = "f_plugins.json"
-        allowed_names = ["AnimeciX", "BelgeselX", "CizgiMax", "DiziBox", "DiziKorea", "Dizilla", "DiziMom", "DiziPal", "DiziYou", "FilmMakinesi", "FilmModu", "FullHDFilm", "FullHDFilmizlesene", "GolgeTV", "HDFilmCehennemi", "InatBox", "IzleAI", "JetFilmizle", "KoreanTurk", "KultFilmler", "NetflixMirror", "RareFilmm", "RecTV", "SetFilmIzle", "SezonlukDizi", "SineWix", "Watch2Movies", "WebteIzle", "TurkAnime", "YouTube"]
-
-        source_data = fetch_github_json(source_url)
-        filtered_data = filter_json(source_data, allowed_names)
-
+        allowed_names = ["AnimeciX", "BelgeselX", "CizgiMax", "DiziBox", "DiziKorea", "Dizilla", "DiziMom", "DiziPal", "DiziYou", "FilmMakinesi", "FilmModu", "FullHDFilm", "FullHDFilmizlesene", "GolgeTV", "HDFilmCehennemi", "Huhu", "InatBox", "IzleAI", "JetFilmizle", "KoreanTurk", "KultFilmler", "NetflixMirror", "RareFilmm", "RecTV", "SetFilmIzle", "SezonlukDizi", "SineWix", "Watch2Movies", "WebteIzle", "TurkAnime", "YouTube"]
+        
+        # Combine data from multiple sources
+        combined_data = []
+        for url in source_urls:
+            try:
+                source_data = fetch_github_json(url)
+                combined_data.extend(source_data)
+                print(f"Veri alındı: {url}")
+            except Exception as e:
+                print(f"Hata: {url} adresinden veri alınamadı - {str(e)}")
+        
+        # Remove duplicates based on name field
+        unique_items = {}
+        for item in combined_data:
+            name = item.get('name')
+            if name and name not in unique_items:
+                unique_items[name] = item
+        
+        # Convert back to list and filter
+        combined_list = list(unique_items.values())
+        filtered_data = filter_json(combined_list, allowed_names)
+        
         with open(target_file, 'w', encoding='utf-8') as f:
             json.dump(filtered_data, f, ensure_ascii=False, indent=4)
-
+        
         print(f"Filtrelenmiş JSON dosyası oluşturuldu: {target_file}")
+        print(f"Toplam kaynak sayısı: {len(combined_list)}")
+        print(f"Filtrelenmiş kaynak sayısı: {len(filtered_data)}")
       shell: python
-
     - name: Commit and push if changed
       run: |
         git config --global user.name 'github-actions[bot]'
