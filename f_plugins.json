@@ -267,7 +267,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "GolgeTV",
         "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/GolgeTV.cs3",
