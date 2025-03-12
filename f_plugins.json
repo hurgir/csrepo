@@ -306,7 +306,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 1,
         "internalName": "Huhu",
         "description": "TV channels from huhu.to",
         "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Huhu.cs3",
