@@ -1,6 +1,6 @@
 {
-    "name": "Turkish Providers Repository ",
-    "description": "Türkçe içerikli eklenti havuzu",
+    "name": "CS Providers Repository ",
+    "description": "CS eklenti havuzu",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/hurgir/csrepo/main/f_plugins.json"
