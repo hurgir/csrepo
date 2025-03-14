@@ -1,5 +1,24 @@
 [
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 11025,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "4KFilmIzlesene",
+        "description": "En yeni ve sorunsuz ⚡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkıyla 4KFilmizlesene&amp;#039;nin Tadını Çıkart.",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/4KFilmIzlesene.cs3",
+        "name": "4KFilmIzlesene"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
@@ -79,6 +98,25 @@
         "name": "DiziBox"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 17079,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "DiziGom",
+        "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziGom.cs3",
+        "name": "DiziGom"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
@@ -115,6 +153,25 @@
         "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Dizilla.cs3",
         "name": "Dizilla"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 26187,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 5,
+        "internalName": "DiziMag",
+        "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziMag.cs3",
+        "name": "DiziMag"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
@@ -174,6 +231,25 @@
         "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
         "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziYou.cs3",
         "name": "DiziYou"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 17758,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "FilmKovasi",
+        "description": "Film Kovasi ⚡ ile en güncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayrıcalığıyla Film Kovası'nın Tadını Çıkarın.",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmKovasi.cs3",
+        "name": "FilmKovasi"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
@@ -518,6 +594,25 @@
         "description": "Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması.",
         "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SineWix.cs3",
         "name": "SineWix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tafdi.info&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 11840,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Tafdi",
+        "description": "Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Tafdi.cs3",
+        "name": "Tafdi"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
