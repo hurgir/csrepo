@@ -158,16 +158,17 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 26187,
+        "fileSize": 25714,
         "status": 1,
         "language": "tr",
         "authors": [
-            "nikyokki"
+            "nikyokki",
+            "kerimmkirac"
         ],
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "DiziMag",
         "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
         "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziMag.cs3",
@@ -513,7 +514,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 20130,
+        "fileSize": 20129,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -527,7 +528,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 65,
+        "version": 66,
         "internalName": "RecTV",
         "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/RecTV.cs3",
@@ -713,7 +714,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 610393,
+        "fileSize": 612507,
         "status": 1,
         "language": "en",
         "authors": [
@@ -729,7 +730,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 210,
+        "version": 211,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
