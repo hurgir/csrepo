@@ -101,7 +101,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 17079,
+        "fileSize": 17083,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -110,7 +110,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "DiziGom",
         "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
         "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziGom.cs3",
@@ -331,26 +331,6 @@
         "name": "FullHDFilmizlesene"
     },
     {
-        "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 24152,
-        "status": 3,
-        "language": "tr",
-        "authors": [
-            "usdogu",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 4,
-        "internalName": "GolgeTV",
-        "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/GolgeTV.cs3",
-        "name": "GolgeTV"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
@@ -514,7 +494,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 20129,
+        "fileSize": 20132,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -528,7 +508,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 66,
+        "version": 67,
         "internalName": "RecTV",
         "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/RecTV.cs3",
@@ -714,7 +694,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 612507,
+        "fileSize": 616789,
         "status": 1,
         "language": "en",
         "authors": [
@@ -730,7 +710,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 211,
+        "version": 214,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
