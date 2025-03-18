@@ -297,25 +297,6 @@
         "name": "InatBox"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=720pizle.ai&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 15504,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "IzleAI",
-        "description": "1080P yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleri ile Türkiye'nin en geniş film arşivi 720pizle Full hd film izle.",
-        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/IzleAI.cs3",
-        "name": "IzleAI"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
@@ -598,7 +579,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 616322,
+        "fileSize": 616428,
         "status": 1,
         "language": "en",
         "authors": [
@@ -614,7 +595,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 216,
+        "version": 218,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
