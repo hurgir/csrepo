@@ -161,7 +161,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 13714,
+        "fileSize": 13712,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -170,7 +170,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "DiziYou",
         "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
         "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziYou.cs3",
@@ -524,7 +524,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 20926,
+        "fileSize": 20929,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -581,7 +581,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 617502,
+        "fileSize": 617578,
         "status": 1,
         "language": "en",
         "authors": [
@@ -597,7 +597,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 220,
+        "version": 222,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
