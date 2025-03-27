@@ -240,7 +240,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 28066,
+        "fileSize": 28076,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -524,7 +524,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 20929,
+        "fileSize": 20926,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -533,7 +533,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "WebteIzle",
         "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/WebteIzle.cs3",
