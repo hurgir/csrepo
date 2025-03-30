@@ -400,7 +400,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-        "fileSize": 20127,
+        "fileSize": 20130,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -414,7 +414,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 70,
+        "version": 71,
         "internalName": "RecTV",
         "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/RecTV.cs3",
@@ -533,7 +533,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 20,
+        "version": 21,
         "internalName": "WebteIzle",
         "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/WebteIzle.cs3",
@@ -563,7 +563,7 @@
         "iconUrl": "https://huhu.to/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 22260,
+        "fileSize": 22258,
         "status": 1,
         "authors": [
             "doGior"
