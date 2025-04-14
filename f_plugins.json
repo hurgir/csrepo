@@ -218,7 +218,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.pro&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18261,
+        "fileSize": 20898,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -320,7 +320,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 14414,
+        "fileSize": 14451,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -575,7 +575,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 644432,
+        "fileSize": 644906,
         "status": 1,
         "language": "en",
         "authors": [
@@ -591,7 +591,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 245,
+        "version": 246,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -601,7 +601,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showbox.media/&size=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 79068,
+        "fileSize": 79458,
         "status": 1,
         "language": "en",
         "authors": [
@@ -615,7 +615,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "SuperStream",
         "description": "SuperStream (Retrieve the cookie using Login with Google to properly utilize SuperStream.",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/SuperStream.cs3",
@@ -625,7 +625,7 @@
         "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 183626,
+        "fileSize": 183704,
         "status": 1,
         "authors": [
             "megix"
@@ -638,7 +638,7 @@
             "Torrent",
             "Live"
         ],
-        "version": 113,
+        "version": 114,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
