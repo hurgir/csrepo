@@ -481,7 +481,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=watch2movies.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18487,
+        "fileSize": 18495,
         "status": 3,
         "language": "en",
         "authors": [
@@ -490,11 +490,30 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 4,
         "internalName": "Watch2Movies",
         "description": "!!! YAPIM AŞAMASINDA !!! Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Watch2Movies.cs3",
         "name": "Watch2Movies"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+        "fileSize": 20850,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 47,
+        "internalName": "WebteIzle",
+        "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
+        "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/WebteIzle.cs3",
+        "name": "WebteIzle"
     },
     {
         "iconUrl": "https://huhu.to/favicon.ico",
@@ -586,7 +605,7 @@
         "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 183711,
+        "fileSize": 196353,
         "status": 1,
         "authors": [
             "megix"
@@ -599,7 +618,7 @@
             "Torrent",
             "Live"
         ],
-        "version": 114,
+        "version": 117,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
@@ -609,7 +628,7 @@
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/4961/4961639.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 35370,
+        "fileSize": 36278,
         "status": 1,
         "authors": [
             "megix"
@@ -620,7 +639,7 @@
             "AsianDrama",
             "Anime"
         ],
-        "version": 42,
+        "version": 44,
         "internalName": "Extractors",
         "description": "Must Install(For other extensions to work properly)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
