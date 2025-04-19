@@ -238,7 +238,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 29452,
+        "fileSize": 29428,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -247,7 +247,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 5,
+        "version": 10,
         "internalName": "FullHDFilmizlesene",
         "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
@@ -519,7 +519,7 @@
         "iconUrl": "https://huhu.to/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 22255,
+        "fileSize": 23097,
         "status": 1,
         "authors": [
             "doGior"
@@ -527,7 +527,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "Huhu",
         "description": "TV channels from huhu.to",
         "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Huhu.cs3",
@@ -537,7 +537,7 @@
         "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 41406,
+        "fileSize": 41778,
         "status": 1,
         "authors": [
             "doGior"
@@ -545,7 +545,7 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "YouTube",
         "description": "Videos, playlists and channels from YouTube",
         "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/YouTube.cs3",
@@ -555,7 +555,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 644021,
+        "fileSize": 653362,
         "status": 1,
         "language": "en",
         "authors": [
@@ -571,7 +571,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 248,
+        "version": 250,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -605,7 +605,7 @@
         "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 199098,
+        "fileSize": 200690,
         "status": 1,
         "authors": [
             "megix"
@@ -618,7 +618,7 @@
             "Torrent",
             "Live"
         ],
-        "version": 119,
+        "version": 122,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
