@@ -82,7 +82,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18667,
+        "fileSize": 18655,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -91,7 +91,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "DiziKorea",
         "description": "En Güncel Kore Dizileri izleme Sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziKorea.cs3",
@@ -179,7 +179,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 14314,
+        "fileSize": 14262,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -189,7 +189,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 9,
+        "version": 25,
         "internalName": "FilmMakinesi",
         "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmMakinesi.cs3",
@@ -238,7 +238,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 29428,
+        "fileSize": 31426,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -247,7 +247,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 10,
+        "version": 17,
         "internalName": "FullHDFilmizlesene",
         "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
@@ -358,7 +358,7 @@
         "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 38616,
+        "fileSize": 38595,
         "status": 1,
         "language": "hi",
         "authors": [
@@ -369,7 +369,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "NetflixMirror",
         "description": "Netflix, PrimeVideo Content in Multiple Languages",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/NetflixMirror.cs3",
@@ -605,7 +605,7 @@
         "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 200690,
+        "fileSize": 202544,
         "status": 1,
         "authors": [
             "megix"
@@ -618,7 +618,7 @@
             "Torrent",
             "Live"
         ],
-        "version": 122,
+        "version": 123,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
@@ -628,7 +628,7 @@
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/4961/4961639.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 36357,
+        "fileSize": 38166,
         "status": 1,
         "authors": [
             "megix"
@@ -639,7 +639,7 @@
             "AsianDrama",
             "Anime"
         ],
-        "version": 45,
+        "version": 46,
         "internalName": "Extractors",
         "description": "Must Install(For other extensions to work properly)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
