@@ -179,7 +179,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 14262,
+        "fileSize": 14654,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -189,7 +189,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 25,
+        "version": 26,
         "internalName": "FilmMakinesi",
         "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmMakinesi.cs3",
@@ -462,7 +462,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 15326,
+        "fileSize": 16389,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -471,7 +471,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 9,
+        "version": 12,
         "internalName": "TurkAnime",
         "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TurkAnime.cs3",
@@ -555,7 +555,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 653362,
+        "fileSize": 652557,
         "status": 1,
         "language": "en",
         "authors": [
@@ -571,7 +571,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 250,
+        "version": 251,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -605,7 +605,7 @@
         "iconUrl": "https://us.123rf.com/450wm/mrshamsjaman/mrshamsjaman2008/mrshamsjaman200800943/154338064-initial-letter-cs-logo-or-sc-logo-vector-design-template.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 202544,
+        "fileSize": 204046,
         "status": 1,
         "authors": [
             "megix"
@@ -618,7 +618,7 @@
             "Torrent",
             "Live"
         ],
-        "version": 123,
+        "version": 125,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
@@ -628,7 +628,7 @@
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/4961/4961639.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 38166,
+        "fileSize": 38171,
         "status": 1,
         "authors": [
             "megix"
@@ -639,7 +639,7 @@
             "AsianDrama",
             "Anime"
         ],
-        "version": 46,
+        "version": 47,
         "internalName": "Extractors",
         "description": "Must Install(For other extensions to work properly)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
