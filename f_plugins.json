@@ -519,7 +519,7 @@
         "iconUrl": "https://huhu.to/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 23097,
+        "fileSize": 23090,
         "status": 1,
         "authors": [
             "doGior"
@@ -537,7 +537,7 @@
         "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 41778,
+        "fileSize": 41781,
         "status": 1,
         "authors": [
             "doGior"
@@ -555,7 +555,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 662512,
+        "fileSize": 674499,
         "status": 1,
         "language": "en",
         "authors": [
@@ -571,7 +571,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 252,
+        "version": 254,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -605,7 +605,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 212741,
+        "fileSize": 213726,
         "status": 1,
         "authors": [
             "megix"
@@ -618,7 +618,7 @@
             "Torrent",
             "Live"
         ],
-        "version": 128,
+        "version": 129,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
@@ -628,7 +628,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Extractors/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 38547,
+        "fileSize": 39031,
         "status": 1,
         "authors": [
             "megix"
@@ -639,7 +639,7 @@
             "AsianDrama",
             "Anime"
         ],
-        "version": 48,
+        "version": 49,
         "internalName": "Extractors",
         "description": "Must Install(For other extensions to work properly)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
