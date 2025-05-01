@@ -24,7 +24,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 19680,
+        "fileSize": 19366,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -34,7 +34,7 @@
         "tvTypes": [
             "Documentary"
         ],
-        "version": 6,
+        "version": 11,
         "internalName": "BelgeselX",
         "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/BelgeselX.cs3",
@@ -257,7 +257,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20148,
+        "fileSize": 20070,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -268,7 +268,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 53,
+        "version": 54,
         "internalName": "HDFilmCehennemi",
         "description": "Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -278,7 +278,7 @@
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 27191,
+        "fileSize": 30800,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -290,7 +290,7 @@
             "TvSeries",
             "Live"
         ],
-        "version": 15,
+        "version": 19,
         "internalName": "InatBox",
         "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/InatBox.cs3",
@@ -300,7 +300,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 13741,
+        "fileSize": 13744,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -309,7 +309,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 31,
+        "version": 32,
         "internalName": "JetFilmizle",
         "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/JetFilmizle.cs3",
@@ -555,7 +555,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 671576,
+        "fileSize": 675707,
         "status": 1,
         "language": "en",
         "authors": [
@@ -571,7 +571,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 258,
+        "version": 259,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
