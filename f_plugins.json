@@ -160,7 +160,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 15129,
+        "fileSize": 15476,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -169,7 +169,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 15,
+        "version": 20,
         "internalName": "DiziYou",
         "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziYou.cs3",
@@ -278,7 +278,7 @@
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30781,
+        "fileSize": 30899,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -290,7 +290,7 @@
             "TvSeries",
             "Live"
         ],
-        "version": 20,
+        "version": 21,
         "internalName": "InatBox",
         "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/InatBox.cs3",
@@ -605,7 +605,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 218947,
+        "fileSize": 221970,
         "status": 1,
         "authors": [
             "megix"
@@ -618,7 +618,7 @@
             "Torrent",
             "Live"
         ],
-        "version": 133,
+        "version": 134,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
@@ -628,7 +628,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Extractors/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 39031,
+        "fileSize": 37962,
         "status": 1,
         "authors": [
             "megix"
@@ -639,7 +639,7 @@
             "AsianDrama",
             "Anime"
         ],
-        "version": 49,
+        "version": 50,
         "internalName": "Extractors",
         "description": "Must Install(For other extensions to work properly)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
