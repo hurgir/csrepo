@@ -24,7 +24,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 19190,
+        "fileSize": 19204,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -34,7 +34,7 @@
         "tvTypes": [
             "Documentary"
         ],
-        "version": 29,
+        "version": 31,
         "internalName": "BelgeselX",
         "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/BelgeselX.cs3",
@@ -101,7 +101,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 25021,
+        "fileSize": 24490,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -110,7 +110,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 16,
+        "version": 26,
         "internalName": "Dizilla",
         "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
@@ -257,7 +257,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20309,
+        "fileSize": 20258,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -268,7 +268,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 11,
+        "version": 13,
         "internalName": "HDFilmCehennemi",
         "description": "Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -519,7 +519,7 @@
         "iconUrl": "https://huhu.to/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 23087,
+        "fileSize": 23098,
         "status": 1,
         "authors": [
             "doGior"
@@ -537,7 +537,7 @@
         "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 41781,
+        "fileSize": 41776,
         "status": 1,
         "authors": [
             "doGior"
@@ -555,7 +555,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 682544,
+        "fileSize": 682516,
         "status": 1,
         "language": "en",
         "authors": [
@@ -571,7 +571,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 266,
+        "version": 267,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
