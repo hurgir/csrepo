@@ -101,7 +101,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 24490,
+        "fileSize": 26040,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -110,7 +110,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 26,
+        "version": 27,
         "internalName": "Dizilla",
         "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
@@ -605,7 +605,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 279352,
+        "fileSize": 279894,
         "status": 1,
         "authors": [
             "megix"
@@ -618,7 +618,7 @@
             "Torrent",
             "Live"
         ],
-        "version": 159,
+        "version": 160,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
