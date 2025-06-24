@@ -560,8 +560,7 @@
         "language": "en",
         "authors": [
             "Phisher98",
-            "Hexated",
-            "salman731"
+            "Hexated"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -605,7 +604,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 297418,
+        "fileSize": 297135,
         "status": 1,
         "authors": [
             "megix"
@@ -618,7 +617,7 @@
             "Torrent",
             "Live"
         ],
-        "version": 168,
+        "version": 169,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
@@ -628,7 +627,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Extractors/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 38779,
+        "fileSize": 38543,
         "status": 1,
         "authors": [
             "megix"
@@ -639,7 +638,7 @@
             "AsianDrama",
             "Anime"
         ],
-        "version": 59,
+        "version": 62,
         "internalName": "Extractors",
         "description": "Must Install(For other extensions to work properly)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
