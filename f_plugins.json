@@ -120,7 +120,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30904,
+        "fileSize": 30908,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -129,7 +129,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -300,7 +300,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 13685,
+        "fileSize": 13680,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -309,7 +309,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 36,
+        "version": 37,
         "internalName": "JetFilmizle",
         "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/JetFilmizle.cs3",
@@ -422,7 +422,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.nl&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 19021,
+        "fileSize": 19026,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -432,7 +432,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "SetFilmIzle",
         "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SetFilmIzle.cs3",
@@ -555,7 +555,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 702549,
+        "fileSize": 699820,
         "status": 1,
         "language": "en",
         "authors": [
@@ -570,7 +570,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 319,
+        "version": 322,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -580,7 +580,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showbox.media/&size=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 97776,
+        "fileSize": 97751,
         "status": 1,
         "language": "en",
         "authors": [
@@ -594,7 +594,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "SuperStream",
         "description": "SuperStream (Retrieve the cookie using Login with Google to properly utilize SuperStream.",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/SuperStream.cs3",
@@ -604,7 +604,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 297135,
+        "fileSize": 298202,
         "status": 1,
         "authors": [
             "megix"
@@ -617,7 +617,7 @@
             "Torrent",
             "Live"
         ],
-        "version": 169,
+        "version": 171,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
