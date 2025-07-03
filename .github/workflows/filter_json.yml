@@ -40,7 +40,7 @@ jobs:
         ]
         
         target_file = "f_plugins.json"
-        allowed_names = ["AnimeciX", "BelgeselX", "CineStream", "CizgiMax", "DiziBox", "DiziKorea", "Dizilla", "DiziMom", "DiziPal", "DiziYou", "Extractors", "FilmMakinesi", "FilmModu", "FullHDFilm", "FullHDFilmizlesene", "GolgeTV", "HDFilmCehennemi", "Huhu", "InatBox", "IzleAI", "JetFilmizle", "KoreanTurk", "KultFilmler", "NetflixMirrorProvider", "RareFilmm", "RecTV", "SetFilmIzle", "SezonlukDizi", "SineWix", "StreamPlay", "SuperStream", "Watch2Movies", "WebteIzle", "TurkAnime", "YouTube"]
+        allowed_names = ["AnimeciX", "BelgeselX", "CineStream", "CizgiMax", "DiziBox", "DiziKorea", "Dizilla", "DiziMom", "DiziPal", "DiziYou", "Extractors", "FilmMakinesi", "FilmModu", "FullHDFilm", "FullHDFilmizlesene", "HDFilmCehennemi", "Huhu", "InatBox", "IzleAI", "JetFilmizle", "KoreanTurk", "KultFilmler", "NetflixMirrorProvider", "RareFilmm", "RecTV", "SetFilmIzle", "SezonlukDizi", "SineWix", "StreamPlay", "SuperStream", "Watch2Movies", "WebteIzle", "TurkAnime", "YouTube"]
         
         # Combine data from multiple sources
         combined_data = []
