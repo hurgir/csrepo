@@ -3,7 +3,7 @@
         "iconUrl": "https://anm.cx/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 24457,
+        "fileSize": 24458,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -14,7 +14,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "AnimeciX",
         "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/AnimeciX.cs3",
@@ -355,27 +355,6 @@
         "name": "KultFilmler"
     },
     {
-        "iconUrl": "https://netfree2.cc/mobile/img/nf2/icon_x192.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 39116,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Horis, megix",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 29,
-        "internalName": "NetflixMirror",
-        "description": "Netflix, PrimeVideo Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/NetflixMirror.cs3",
-        "name": "NetflixMirror"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
@@ -643,5 +622,24 @@
         "description": "Must Install(For other extensions to work properly)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
         "name": "Extractors"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 42583,
+        "status": 1,
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 24,
+        "internalName": "NetflixMirrorProvider",
+        "description": "Netflix, PrimeVideo, Disney Hotstar Content in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
+        "name": "NetflixMirrorProvider"
     }
 ]
