@@ -401,7 +401,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.nl&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 19040,
+        "fileSize": 19024,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -411,7 +411,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 21,
+        "version": 23,
         "internalName": "SetFilmIzle",
         "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/SetFilmIzle.cs3",
@@ -534,7 +534,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 706728,
+        "fileSize": 724042,
         "status": 1,
         "language": "en",
         "authors": [
@@ -549,7 +549,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 337,
+        "version": 338,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -583,7 +583,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 300797,
+        "fileSize": 299607,
         "status": 1,
         "authors": [
             "megix"
@@ -593,12 +593,11 @@
             "Movie",
             "AsianDrama",
             "Anime",
-            "Torrent",
-            "Live"
+            "Torrent"
         ],
-        "version": 177,
+        "version": 178,
         "internalName": "CineStream",
-        "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
         "name": "CineStream"
     },
