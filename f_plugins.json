@@ -179,7 +179,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 17392,
+        "fileSize": 17517,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -189,7 +189,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 22,
+        "version": 23,
         "internalName": "FilmMakinesi",
         "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmMakinesi.cs3",
@@ -257,7 +257,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 25349,
+        "fileSize": 25409,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -268,7 +268,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "HDFilmCehennemi",
         "description": "Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -534,7 +534,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 737791,
+        "fileSize": 737859,
         "status": 1,
         "language": "en",
         "authors": [
@@ -549,7 +549,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 357,
+        "version": 358,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -559,7 +559,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showbox.media/&size=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 97327,
+        "fileSize": 98037,
         "status": 1,
         "language": "en",
         "authors": [
@@ -583,7 +583,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 301668,
+        "fileSize": 301637,
         "status": 1,
         "authors": [
             "megix"
@@ -595,7 +595,7 @@
             "Anime",
             "Torrent"
         ],
-        "version": 187,
+        "version": 189,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
@@ -626,18 +626,20 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 45052,
+        "fileSize": 45122,
         "status": 1,
         "authors": [
             "megix"
         ],
         "tvTypes": [
             "Movie",
-            "TvSeries"
+            "TvSeries",
+            "AsianDrama",
+            "Anime"
         ],
-        "version": 26,
+        "version": 27,
         "internalName": "NetflixMirrorProvider",
-        "description": "Netflix, PrimeVideo, Disney Hotstar Content in Multiple Languages",
+        "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) Content in Multiple Languages",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
         "name": "NetflixMirrorProvider"
     }
