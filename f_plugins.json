@@ -160,7 +160,7 @@
         "iconUrl": "https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 15794,
+        "fileSize": 15797,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -169,7 +169,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "DiziYou",
         "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziYou.cs3",
@@ -179,7 +179,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 17517,
+        "fileSize": 17549,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -189,7 +189,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 23,
+        "version": 24,
         "internalName": "FilmMakinesi",
         "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmMakinesi.cs3",
@@ -257,7 +257,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 25409,
+        "fileSize": 25424,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -268,7 +268,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 20,
+        "version": 21,
         "internalName": "HDFilmCehennemi",
         "description": "Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
