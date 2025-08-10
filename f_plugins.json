@@ -120,7 +120,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30907,
+        "fileSize": 30904,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -129,7 +129,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -218,7 +218,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18177,
+        "fileSize": 18181,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -228,7 +228,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 30,
+        "version": 31,
         "internalName": "FullHDFilm",
         "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilm.cs3",
