@@ -495,46 +495,28 @@
         "name": "WebteIzle"
     },
     {
-        "iconUrl": "https://huhu.to/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 23090,
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Huhu.cs3",
         "status": 1,
+        "version": 3,
+        "name": "Huhu",
+        "internalName": "Huhu",
         "authors": [
             "doGior"
         ],
+        "description": "TV channels from huhu.to",
+        "fileSize": 23497,
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
         "tvTypes": [
             "Live"
         ],
-        "version": 3,
-        "internalName": "Huhu",
-        "description": "TV channels from huhu.to",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Huhu.cs3",
-        "name": "Huhu"
-    },
-    {
-        "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 41777,
-        "status": 1,
-        "authors": [
-            "doGior"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 12,
-        "internalName": "YouTube",
-        "description": "Videos, playlists and channels from YouTube",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/YouTube.cs3",
-        "name": "YouTube"
+        "iconUrl": "https://huhu.to/favicon.ico",
+        "apiVersion": 1
     },
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 743053,
+        "fileSize": 744422,
         "status": 1,
         "language": "en",
         "authors": [
@@ -549,7 +531,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 366,
+        "version": 368,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
