@@ -63,7 +63,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 21298,
+        "fileSize": 21301,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -72,7 +72,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 21,
+        "version": 22,
         "internalName": "DiziBox",
         "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziBox.cs3",
@@ -120,7 +120,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30904,
+        "fileSize": 30903,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -129,7 +129,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -160,7 +160,7 @@
         "iconUrl": "https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 15797,
+        "fileSize": 15796,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -169,7 +169,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "DiziYou",
         "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziYou.cs3",
@@ -218,7 +218,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18181,
+        "fileSize": 18179,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -228,7 +228,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 31,
+        "version": 32,
         "internalName": "FullHDFilm",
         "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilm.cs3",
@@ -338,7 +338,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 21932,
+        "fileSize": 21934,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -348,7 +348,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "KultFilmler",
         "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/KultFilmler.cs3",
@@ -377,7 +377,7 @@
         "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20717,
+        "fileSize": 20719,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -391,7 +391,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 84,
+        "version": 85,
         "internalName": "RecTV",
         "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
@@ -495,28 +495,28 @@
         "name": "WebteIzle"
     },
     {
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Huhu.cs3",
+        "iconUrl": "https://huhu.to/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+        "fileSize": 23498,
         "status": 1,
-        "version": 3,
-        "name": "Huhu",
-        "internalName": "Huhu",
         "authors": [
             "doGior"
         ],
-        "description": "TV channels from huhu.to",
-        "fileSize": 23491,
-        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
         "tvTypes": [
             "Live"
         ],
-        "iconUrl": "https://huhu.to/favicon.ico",
-        "apiVersion": 1
+        "version": 3,
+        "internalName": "Huhu",
+        "description": "TV channels from huhu.to",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Huhu.cs3",
+        "name": "Huhu"
     },
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 763178,
+        "fileSize": 766632,
         "status": 1,
         "language": "en",
         "authors": [
@@ -531,7 +531,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 377,
+        "version": 378,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
