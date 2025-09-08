@@ -290,7 +290,7 @@
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 30828,
+        "fileSize": 30758,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -516,7 +516,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 763075,
+        "fileSize": 779535,
         "status": 1,
         "language": "en",
         "authors": [
@@ -531,7 +531,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 386,
+        "version": 389,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -565,7 +565,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 338282,
+        "fileSize": 343064,
         "status": 1,
         "authors": [
             "megix"
@@ -577,7 +577,7 @@
             "Anime",
             "Torrent"
         ],
-        "version": 206,
+        "version": 207,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
