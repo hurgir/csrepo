@@ -146,7 +146,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 19206,
+        "fileSize": 19208,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -157,7 +157,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 42,
+        "version": 43,
         "internalName": "DiziPal",
         "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
@@ -332,7 +332,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.koreanturk.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 12215,
+        "fileSize": 12216,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -341,7 +341,7 @@
         "tvTypes": [
             "AsianDrama"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "KoreanTurk",
         "description": "Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/KoreanTurk.cs3",
@@ -478,7 +478,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 30571,
+        "fileSize": 30572,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -516,7 +516,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 774736,
+        "fileSize": 775587,
         "status": 1,
         "language": "en",
         "authors": [
@@ -531,7 +531,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 428,
+        "version": 429,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -565,7 +565,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 352155,
+        "fileSize": 352868,
         "status": 1,
         "authors": [
             "megix"
@@ -577,7 +577,7 @@
             "Anime",
             "Torrent"
         ],
-        "version": 220,
+        "version": 221,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
