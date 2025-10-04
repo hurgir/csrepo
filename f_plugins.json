@@ -126,7 +126,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 30572,
+        "fileSize": 30575,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -136,7 +136,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 26,
+        "version": 27,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziMom.cs3",
@@ -146,7 +146,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 19208,
+        "fileSize": 19205,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -157,7 +157,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 43,
+        "version": 44,
         "internalName": "DiziPal",
         "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
@@ -478,7 +478,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 30572,
+        "fileSize": 30571,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -488,7 +488,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 58,
+        "version": 59,
         "internalName": "WebteIzle",
         "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WebteIzle.cs3",
@@ -565,7 +565,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 352946,
+        "fileSize": 349406,
         "status": 1,
         "authors": [
             "megix"
@@ -577,7 +577,7 @@
             "Anime",
             "Torrent"
         ],
-        "version": 222,
+        "version": 223,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
