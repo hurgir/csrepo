@@ -25,7 +25,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 20295,
+        "fileSize": 20311,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -157,7 +157,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 45,
+        "version": 46,
         "internalName": "DiziPal",
         "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
@@ -208,7 +208,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 18284,
+        "fileSize": 18286,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -218,7 +218,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "FilmModu",
         "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmModu.cs3",
@@ -290,7 +290,7 @@
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 30758,
+        "fileSize": 30767,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -372,7 +372,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 20934,
+        "fileSize": 20984,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -478,7 +478,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 30571,
+        "fileSize": 30581,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -516,7 +516,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 778127,
+        "fileSize": 778181,
         "status": 1,
         "language": "en",
         "authors": [
@@ -531,7 +531,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 443,
+        "version": 444,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -541,7 +541,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showbox.media/&size=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 108397,
+        "fileSize": 108525,
         "status": 1,
         "language": "en",
         "authors": [
@@ -555,7 +555,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 24,
+        "version": 25,
         "internalName": "SuperStream",
         "description": "SuperStream (Retrieve the cookie using Login with Google to properly utilize SuperStream.",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/SuperStream.cs3",
