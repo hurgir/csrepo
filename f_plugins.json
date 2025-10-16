@@ -516,7 +516,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 778181,
+        "fileSize": 778263,
         "status": 1,
         "language": "en",
         "authors": [
@@ -531,7 +531,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 444,
+        "version": 445,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -587,7 +587,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Extractors/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 37813,
+        "fileSize": 37896,
         "status": 1,
         "authors": [
             "megix"
@@ -598,7 +598,7 @@
             "AsianDrama",
             "Anime"
         ],
-        "version": 71,
+        "version": 72,
         "internalName": "Extractors",
         "description": "Must Install(For other extensions to work properly)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
