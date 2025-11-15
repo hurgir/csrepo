@@ -33,7 +33,7 @@ jobs:
             return [item for item in source_data if item['name'] in allowed_names]
         
         source_urls = [
-            "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json",
+            "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/plugins.json",
             "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/plugins.json",
             "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json",
             "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/plugins.json"
