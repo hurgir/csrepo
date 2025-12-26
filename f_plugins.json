@@ -150,7 +150,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 37,
+        "version": 38,
         "internalName": "DiziPal",
         "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -565,7 +565,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 391343,
+        "fileSize": 391859,
         "status": 1,
         "authors": [
             "megix"
@@ -577,7 +577,7 @@
             "Anime",
             "Torrent"
         ],
-        "version": 264,
+        "version": 267,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
