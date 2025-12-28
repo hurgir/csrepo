@@ -565,7 +565,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 389655,
+        "fileSize": 384688,
         "status": 1,
         "authors": [
             "megix"
@@ -587,7 +587,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Extractors/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 37426,
+        "fileSize": 33589,
         "status": 1,
         "authors": [
             "megix"
@@ -598,7 +598,7 @@
             "AsianDrama",
             "Anime"
         ],
-        "version": 80,
+        "version": 81,
         "internalName": "Extractors",
         "description": "Must Install(For other extensions to work properly)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
