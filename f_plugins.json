@@ -565,7 +565,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 486103,
+        "fileSize": 488847,
         "status": 1,
         "authors": [
             "megix"
@@ -577,7 +577,7 @@
             "Anime",
             "Torrent"
         ],
-        "version": 308,
+        "version": 311,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
