@@ -3,7 +3,7 @@
         "iconUrl": "https://anm.cx/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 24431,
+        "fileSize": 25603,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -24,7 +24,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 19203,
+        "fileSize": 21188,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -44,7 +44,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18278,
+        "fileSize": 20451,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -63,7 +63,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 21190,
+        "fileSize": 22796,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -82,7 +82,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 22646,
+        "fileSize": 24705,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -101,7 +101,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 26976,
+        "fileSize": 29555,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -120,7 +120,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 30780,
+        "fileSize": 33626,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -129,7 +129,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 37,
+        "version": 38,
         "internalName": "DiziMom",
         "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziMom.cs3",
@@ -139,7 +139,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal952.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 19316,
+        "fileSize": 20422,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -150,7 +150,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 39,
+        "version": 42,
         "internalName": "DiziPal",
         "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -160,7 +160,7 @@
         "iconUrl": "https://cdn.diziyou6.com/wp-content/uploads/2020/04/diziyou-favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 15729,
+        "fileSize": 17162,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -179,7 +179,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 15789,
+        "fileSize": 17221,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -199,7 +199,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 14659,
+        "fileSize": 16371,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -218,7 +218,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18374,
+        "fileSize": 19771,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -238,7 +238,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 33872,
+        "fileSize": 38903,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -247,7 +247,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 27,
+        "version": 28,
         "internalName": "FullHDFilmizlesene",
         "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
@@ -257,7 +257,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 25533,
+        "fileSize": 28584,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -268,7 +268,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 24,
+        "version": 25,
         "internalName": "HDFilmCehennemi",
         "description": "Türkiye'nin en hızlı hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -278,7 +278,7 @@
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 31699,
+        "fileSize": 35895,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -300,7 +300,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 16233,
+        "fileSize": 18113,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -309,7 +309,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 41,
+        "version": 42,
         "internalName": "JetFilmizle",
         "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/JetFilmizle.cs3",
@@ -319,7 +319,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=koreanturk.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 12240,
+        "fileSize": 13072,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -338,7 +338,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 21906,
+        "fileSize": 23706,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -358,7 +358,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 14298,
+        "fileSize": 15363,
         "status": 1,
         "language": "en",
         "authors": [
@@ -377,7 +377,7 @@
         "iconUrl": "https://rectvapp.com.tr/wp-content/uploads/2024/08/cropped-cropped-Screenshot_2023-08-31_at_11.02.55_PM-removebg-preview-32x32.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 24422,
+        "fileSize": 25507,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -391,7 +391,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 96,
+        "version": 97,
         "internalName": "RecTV",
         "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/RecTV.cs3",
@@ -401,7 +401,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.nl&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18929,
+        "fileSize": 20667,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -421,7 +421,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 19324,
+        "fileSize": 21107,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -441,7 +441,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 16108,
+        "fileSize": 18148,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -460,7 +460,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=watch2movies.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 18350,
+        "fileSize": 19632,
         "status": 3,
         "language": "en",
         "authors": [
@@ -479,7 +479,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-        "fileSize": 20741,
+        "fileSize": 23012,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -516,7 +516,7 @@
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 967065,
+        "fileSize": 976454,
         "status": 1,
         "language": "en",
         "authors": [
@@ -531,7 +531,7 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 538,
+        "version": 541,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -565,7 +565,7 @@
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 475653,
+        "fileSize": 468323,
         "status": 1,
         "authors": [
             "megix"
@@ -577,7 +577,7 @@
             "Anime",
             "Torrent"
         ],
-        "version": 333,
+        "version": 334,
         "internalName": "CineStream",
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
